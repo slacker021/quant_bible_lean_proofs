@@ -1,0 +1,5 @@
+import QuantBibleProofs.Mathematics.RealAnalysis1.Module1.Chapter2
+import QuantBibleProofs.Mathematics.RealAnalysis1.Module1.Chapter3
+import QuantBibleProofs.Mathematics.RealAnalysis1.Module1.Chapter4
+
+set_option linter.style.header false

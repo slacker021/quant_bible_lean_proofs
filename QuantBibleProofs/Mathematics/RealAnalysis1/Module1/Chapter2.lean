@@ -1,0 +1,6 @@
+import QuantBibleProofs.Mathematics.RealAnalysis1.Module1.Chapter2.DeMorgansLawsOfSetComplements
+import QuantBibleProofs.Mathematics.RealAnalysis1.Module1.Chapter2.EmptySetSubset
+import QuantBibleProofs.Mathematics.RealAnalysis1.Module1.Chapter2.DistributiveLaws
+import QuantBibleProofs.Mathematics.RealAnalysis1.Module1.Chapter2.ElementaryLemmaSetComplementation
+
+set_option linter.style.header false
